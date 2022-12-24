@@ -19,7 +19,8 @@ I made this in my free time while i was looking for bot ideas, and needed to lea
 # Risks you run using this code.
 You run the risks of:
 
-• Having your discord account termniated
+• Having your discord account terminated
+
 • Having your bot removed.
 
 Please run this only in your own server.
