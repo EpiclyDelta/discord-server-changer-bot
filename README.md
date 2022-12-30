@@ -8,7 +8,7 @@ This code is really dangerous, and it can harm your server. This code is for edu
 The only depedency is discord.py/pycord. This runs from either of those two packages, and pure python.
 
 To install pycord, run:
-` pip install pycord `
+` pip install py-cord `
 
 To install discord.py, run: ` pip install discord.py `
 
